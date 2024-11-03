@@ -19,7 +19,7 @@
    - Use a Base64 decoder to decode the image.
    - Save the decoded image to your local machine.
 
-![image](https://github.com/x03ee/Hackers-N-Hops-2024/blob/main/WEB/Anti-Spirit%20FCaptcha/3.png)
+![image](https://github.com/x03ee/Hackers-N-Hops-2024/blob/main/WEB/Anti-Spirit%20FCaptcha/s3.png)
 
 6. **Retrieve the Flag**: 
    - Upon successfully saving the image, check its contents for the flag.
